@@ -2,7 +2,7 @@
 
 In this notebook, we aim to predict heart failure using a dataset containing various clinical features. Heart disease is one of the leading causes of death worldwide, and early prediction can help in taking preventive measures. We will explore the dataset, preprocess it, build a machine-learning model, and evaluate its performance.
 
-![Heart Failure Prediction]("https://storage.googleapis.com/kaggle-datasets-images/1582403/2603715/fc66626bcce9dec0f401f3f69c2ab2d1/dataset-cover.jpg")
+![Heart Failure Prediction](https://media.licdn.com/dms/image/C4D12AQG6uYy-OXdhVg/article-cover_image-shrink_600_2000/0/1573170080567?e=2147483647&v=beta&t=evLlzd_oOwrJKeBkQAXGPiJNAPeW4CxvI3MUBIaAe6A)
 
 
 ## Attribute Information
